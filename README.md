@@ -1,7 +1,7 @@
 # poot1
 
 
-1. Crie um programa para calcular o salário dos funcionários de uma empresa. O salário é baseado no valor hora e quantidade de horas trabalhadas no mês. Porém, para algumas funçõeses existe uma bonificaçãoo. Para os líderes, o salário é incrementado em 2% e para os gerentes em 5%. Desenvolva o diagrama de classe da UML.
+1
 
  
 class Employee {
@@ -65,7 +65,7 @@ public class Main {
 
 
 
-2. Desenvolva objetos que sejam capazes de desenhar um retângulo com um texto. O retângulo pode conter diferentes tipos de decoração (bordas arrendondadas, linhas duplas, ascii art, colorido, etc). Porém cada objeto deve ser capaz de desenhar apenas um tipo de retângulo.
+2.
 
 
 
